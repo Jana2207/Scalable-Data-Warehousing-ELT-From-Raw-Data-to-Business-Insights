@@ -130,7 +130,7 @@ ORDER BY total_sales DESC;
 - 🔍 **EDA & Advanced Analytics**
 
 
-🚀 **Connect with me:** [LinkedIn](linkedin.com/in/jana2207) | [GitHub](github.com/Jana2207) | [portfolio ](https://jana2207.github.io/) | [janailluru220@gmail.com](janailluru220@gmail.com)
+🚀 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/jana2207/) | [GitHub](https://github.com/Jana2207) | [portfolio ](https://jana2207.github.io/) | [janailluru220@gmail.com](janailluru220@gmail.com)
 
 ---
 
